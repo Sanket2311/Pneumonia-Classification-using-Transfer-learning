@@ -8,5 +8,5 @@ In this .ipynb notebook we have directly imported dataset from kaggle to google 
 
 At the we have achieved pretty impressive 96% in-sample and 91.5% Validation accuracy!!!
 
-Learned a lot while working on this cool project!! B)
+Learned a lot while working on this cool project!! 
 
